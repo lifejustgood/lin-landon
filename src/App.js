@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React in 1 day
+          Deploying to AWS cloud
         </a>
       </header>
     </div>
